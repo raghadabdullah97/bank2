@@ -1,2 +1,2 @@
-bank name
+ bank name
 bank adress
